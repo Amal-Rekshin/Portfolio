@@ -84,16 +84,17 @@ li{
     text-align: center;
     align-content: center;
     font-family: "Itim", cursive;
-    cursor:default
-    }
-
-
-.MostLeft p:hover{
+    cursor:default;
     text-shadow: 1px 1px 100px #00d9ff,
                 1px 1px 10px #00d9ff;
     color: #acf3ff;
+    }
+
+
+/* .MostLeft p:hover{
+
     transition: .3s;
-}
+} */
 
 .LeftContent{
     margin-top: 200px;
